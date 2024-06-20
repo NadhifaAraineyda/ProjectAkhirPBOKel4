@@ -86,3 +86,6 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "line"))
         self.label_3.setText(_translate("MainWindow", "colom"))
         self.pushButton_6.setText(_translate("MainWindow", "setelan "))
+
+
+
